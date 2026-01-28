@@ -8,3 +8,8 @@ Standard Version (No GPIO Cutout)
 
 <img width="1447" height="1061" alt="image" src="https://github.com/user-attachments/assets/cc11a169-5ff1-42cf-9c9b-b871f0e35ac5" />
 Version With GPIO Cutout
+
+Some Key Features: 
+- Filleted fan duct and large exhaust ports for optimized air cooling. 
+- Large pocket for NVME devices in bottom half, can accomodate permanent heatsinks such as those on "Crucial T705"
+- Small Vent holes for nvme venting as well, fan drives cooling. 
