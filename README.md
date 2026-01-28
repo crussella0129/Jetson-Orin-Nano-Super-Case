@@ -4,12 +4,15 @@ An Open Source Desktop Case Design for Nvidia's Jetson Orin Super Developer Kit.
 Pictured is v1.4
 
 <img width="1207" height="832" alt="image" src="https://github.com/user-attachments/assets/99cc5d5a-38a9-47cc-a67c-cacf9ece3620" />
+
 Standard Version (No GPIO Cutout)
 
 <img width="1066" height="807" alt="image" src="https://github.com/user-attachments/assets/7345c499-3355-4811-9abc-9f051e52123c" />
+
 GPIO Cutout version
 
 <img width="977" height="648" alt="image" src="https://github.com/user-attachments/assets/1a3de593-4f46-4d22-8859-0b24b0bd1c50" />
+
 I/O access (improved in 1.3)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
