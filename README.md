@@ -3,14 +3,14 @@ An Open Source Desktop Case Design for Nvidia's Jetson Orin Super Developer Kit.
 
 Pictured is v1.2
 
-<img width="1049" height="930" alt="image" src="https://github.com/user-attachments/assets/d0d549f6-82ab-4665-a5c3-bf2ae9133ffb" />
-Standard Version (No GPIO Cutout, or Vented Base)
+<img width="1207" height="832" alt="image" src="https://github.com/user-attachments/assets/99cc5d5a-38a9-47cc-a67c-cacf9ece3620" />
+Standard Version (No GPIO Cutout)
 
-<img width="1099" height="802" alt="image" src="https://github.com/user-attachments/assets/e70c33e7-996b-44a0-889e-36cc539f00c5" />
-Version With GPIO Cutout (No Vented Base)
+<img width="1066" height="807" alt="image" src="https://github.com/user-attachments/assets/7345c499-3355-4811-9abc-9f051e52123c" />
+GPIO Cutout version
 
-<img width="1315" height="1026" alt="image" src="https://github.com/user-attachments/assets/aa8f6a92-ebfb-4c36-bcc7-d16782b3c8ee" />
-Version with GPIO Cutout Top Half and Vented Base
+<img width="977" height="648" alt="image" src="https://github.com/user-attachments/assets/1a3de593-4f46-4d22-8859-0b24b0bd1c50" />
+I/O access (improved in 1.3)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -18,7 +18,9 @@ Version with GPIO Cutout Top Half and Vented Base
 
 - Filleted fan duct and large exhaust ports for optimized air cooling. 
 - Large pocket for NVME devices in bottom half, can accomodate permanent heatsinks such as those on "Crucial T705"
-- Small Vent holes for nvme venting as well, fan drives cooling as the entire internal cavity acts as a plenum (specifically with the Case_V1.2_LHalf_Vented)
+- Small Vent holes for nvme venting as well, fan drives cooling as the entire internal cavity acts as a plenum (see below)
+  <img width="1339" height="898" alt="image" src="https://github.com/user-attachments/assets/dcc87b9a-f9f5-4b9d-a64b-facc6b31dc54" />
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
