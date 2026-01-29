@@ -32,7 +32,7 @@ I/O access (improved in 1.3)
   - Select the STEP files that meet your needs, import into your slicer as you would an STL file, then print.
     - Tip: In slicers like Bambu Lab Studio and Prusa Slicer, the import settings will ask you to adjust two sliders. Drag them to be as low as possible, such that the "number of faces" is close to (but under) 1 million faces. More detail is higher resolution.
   - After printing, insert ruthex M3 threaded inserts (this model was made for these: https://www.amazon.com/dp/B08BCRZZS3?ref_=ppx_hzod_title_dt_b_fed_asin_title_0_3&th=1) in the top half's screw holes. Any standard M3 machine screws will work for this design.
-    - Tip: The M3 Screws that work best with the file as is are 10-15mm, but you can adjust the "inner circle" with an extrude command (in Fusion, Solidworks, etc...) to match what you have on hand. 
+    - Tip: The M3 Screws that work best with the file as is are ~15mm, but you can adjust the height of the "inner circle" with an extrude command (in Fusion, Solidworks, etc...) to match what you have on hand. 
   - Place the Jetson Orin Nano Board *CAREFULLY* into the top half of the case.
   - Place the top half onto a sturdy table, or work surface, face down. Then, align the bottom half such that the plenum/recess is directly beneath the aux NvME port.
   - Insert the M3 machine screws, then tighten, to attach the two halves.
