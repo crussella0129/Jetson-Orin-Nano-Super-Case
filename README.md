@@ -1,22 +1,21 @@
 # Jetson-Orin-Nano-Super-Case
 An Open Source Desktop Case Design for Nvidia's Jetson Orin Super Developer Kit. 3d printable or CNC machinable in STEP format. 
 
-
-<img width="1163" height="913" alt="image" src="https://github.com/user-attachments/assets/adbb80b5-4fe0-4734-b6d6-bb37ca74543a" />
-
 V2.0 Standard Version - No GPIO/Pin Cutout ("sleek" desktop design)
-
-<img width="1114" height="881" alt="Screenshot 2026-01-29 162449" src="https://github.com/user-attachments/assets/7e72deba-b0b9-4b64-b40c-8fce767b22b6" />
+<img width="1163" height="913" alt="image" src="https://github.com/user-attachments/assets/adbb80b5-4fe0-4734-b6d6-bb37ca74543a" />
 
 V2.0 GPIO/Pin Cutout Version ("prototyping friendly" desktop design) 
 
-<img width="1066" height="807" alt="image" src="https://github.com/user-attachments/assets/7345c499-3355-4811-9abc-9f051e52123c" />
+<img width="1114" height="881" alt="Screenshot 2026-01-29 162449" src="https://github.com/user-attachments/assets/7e72deba-b0b9-4b64-b40c-8fce767b22b6" />
 
 V1.6 GPIO Cutout version (prototype focused design with max board accessibility)
 
-<img width="977" height="648" alt="image" src="https://github.com/user-attachments/assets/1a3de593-4f46-4d22-8859-0b24b0bd1c50" />
+<img width="1066" height="807" alt="image" src="https://github.com/user-attachments/assets/7345c499-3355-4811-9abc-9f051e52123c" />
 
 I/O access (improved in 1.3)
+
+<img width="977" height="648" alt="image" src="https://github.com/user-attachments/assets/1a3de593-4f46-4d22-8859-0b24b0bd1c50" />
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
