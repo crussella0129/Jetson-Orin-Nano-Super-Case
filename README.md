@@ -24,7 +24,7 @@ I/O access (improved in 1.3)
 
 - Filleted fan duct and large exhaust ports for optimized air cooling. 
 - Large pocket for NVME devices in bottom half, can accomodate permanent heatsinks such as those on "Crucial T705"
-- Small Vent holes for nvme venting as well, fan drives cooling as the entire internal cavity acts as a plenum (see below)
+- Plenum system that cycles air from the top of the board to the bottom and out of the case:
   <img width="1339" height="898" alt="image" src="https://github.com/user-attachments/assets/dcc87b9a-f9f5-4b9d-a64b-facc6b31dc54" />
 
 
