@@ -28,5 +28,16 @@ I/O access (improved in 1.3)
 
 *Assembly Instructions*
 
-3d print: Select the upper and lower half files that meet your needs, then print. After printing, insert ruthex M3 threaded inserts (this model was made for these: https://www.amazon.com/dp/B08BCRZZS3?ref_=ppx_hzod_title_dt_b_fed_asin_title_0_3&th=1) in the top half's screw holes. 
-CNC Machining: Offset the screwholes on the top half down to a total diameter of ~2.6mm, hand tap. Assemble as instructed above in "3d print". 
+- 3d print:
+  - Select the STEP files that meet your needs, import into your slicer as you would an STL file, then print.
+    -Tip: In slicers like Bambu Lab Studio and Prusa Slicer, the import settings will ask you to adjust two sliders. Drag them to be as low as possible, such that the "number of faces" is close to (but under) 1 million faces. More detail is higher resolution.
+  - After printing, insert ruthex M3 threaded inserts (this model was made for these: https://www.amazon.com/dp/B08BCRZZS3?ref_=ppx_hzod_title_dt_b_fed_asin_title_0_3&th=1) in the top half's screw holes.
+  - Place the Jetson Orin Nano Board *CAREFULLY* into the top half of the case.
+  - Place the top half onto a sturdy table, or work surface, face down. Then, align the bottom half such that the plenum/recess is directly beneath the aux NvME port.
+  - Insert the M3 machine screws, then tighten, to attach the two halves.
+  - Use rubber feet, if desired, to minizmize sliding or wobble.
+     
+- CNC Machining:
+  - Offset the screwholes on the top half down to a total diameter of ~2.6mm, \
+  - hand tap.
+  - Assemble as instructed above in "3d print". 
