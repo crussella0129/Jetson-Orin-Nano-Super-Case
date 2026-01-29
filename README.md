@@ -1,7 +1,6 @@
 # Jetson-Orin-Nano-Super-Case
 An Open Source Desktop Case Design for Nvidia's Jetson Orin Super Developer Kit. 3d printable or CNC machinable in STEP format. 
 
-Pictured is v1.4
 
 <img width="1207" height="832" alt="image" src="https://github.com/user-attachments/assets/99cc5d5a-38a9-47cc-a67c-cacf9ece3620" />
 
