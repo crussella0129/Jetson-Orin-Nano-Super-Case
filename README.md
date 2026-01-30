@@ -42,7 +42,10 @@ I/O access (improved in 1.3)
       <img width="1475" height="990" alt="image" src="https://github.com/user-attachments/assets/82500565-ce4d-40bf-ba71-6e78e9c403ec" />
 
   - After printing, insert ruthex M3 threaded inserts (this model was made for these: https://www.amazon.com/dp/B08BCRZZS3?ref_=ppx_hzod_title_dt_b_fed_asin_title_0_3&th=1) in the top half's screw holes. Any standard M3 machine screws will work for this design.
-    - Tip: The M3 Screws that work best with the file as is are ~15mm, but you can adjust the height of the "inner circle" with an extrude command (in Fusion, Solidworks, etc...) to match what you have on hand. 
+    - Tip: The M3 Screws that work best with the file as is are ~15mm, but you can adjust the height of the "inner circle" with an extrude command (in Fusion, Solidworks, etc...) to match what you have on hand.
+    - Fig 3
+      ![IMG_9220](https://github.com/user-attachments/assets/99a4a72b-dc4c-41d6-85c0-35002fd225a5)
+ 
   - Place the Jetson Orin Nano Board *CAREFULLY* into the top half of the case.
   - Place the top half onto a sturdy table, or work surface, face down. Then, align the bottom half such that the plenum/recess is directly beneath the aux NvME port.
   - Insert the M3 machine screws, then tighten, to attach the two halves.
