@@ -46,7 +46,10 @@ I/O access (improved in 1.3)
     - Fig 3
       ![IMG_9220](https://github.com/user-attachments/assets/99a4a72b-dc4c-41d6-85c0-35002fd225a5)
  
-  - Place the Jetson Orin Nano Board *CAREFULLY* into the top half of the case.
+  - Place the Jetson Orin Nano Board *CAREFULLY* into the top half of the case. (Fig 4)
+  - Fig 4
+    ![IMG_9222](https://github.com/user-attachments/assets/f836c499-75dd-463c-b43d-0acc4dda9256)
+
   - Place the top half onto a sturdy table, or work surface, face down. Then, align the bottom half such that the plenum/recess is directly beneath the aux NvME port.
   - Insert the M3 machine screws, then tighten, to attach the two halves.
   - Use rubber feet, if desired, to minizmize sliding or wobble.
