@@ -34,7 +34,7 @@ I/O access (improved in 1.3)
 - 3d print:
   - Select the STEP files that meet your needs, import into your slicer as you would an STL file, then print.
     - Slicer Tip: In slicers like Bambu Lab Studio and Prusa Slicer, the import settings will ask you to adjust two sliders. Drag them to be as low as possible, such that the "number of faces" is close to (but under) 1 million faces. More detail is higher resolution.
-    - Printing Tip: Select the face indicated in the picture below (Fig 1) and print at an angle with tree supports inner and outer brim, and a skirt (see Fig 2). I recommend 3 outer layer walls and apprx 15% gyroid infill. Only use high temp capable filaments like PA-CF, PC/PC-CF, or PPS-CF.
+    - Printing Tip: The Figure can be printed oriented as in Fig 1, or can be printed at an angle (Fig 2). For angled printing, select the face indicated in Fig 1 and print at an angle with tree supports, inner and outer brim, and a skirt (see Fig 2). I recommend 3 outer layer walls and apprx 15% gyroid infill. High temp capable filaments like ABS, PA-CF, PC/PC-CF, or PPS-CF, are *strongly reccomeneded*.
     - Fig 1
       <img width="1071" height="627" alt="image" src="https://github.com/user-attachments/assets/84e9967f-d930-42f5-ab3f-323f6b17b132" />
 
