@@ -57,4 +57,8 @@ I/O access (improved in 1.3)
 - CNC Machining:
   - Offset the screwholes on the top half down to a total diameter of ~2.6mm, \
   - hand tap.
-  - Assemble as instructed above in "3d print". 
+  - Assemble as instructed above in "3d print".
+ 
+Latest Updates (V2.1): 
+- Altered IO access such that printing with supports is no longer required for the top half
+- Added 12.2mm holes for power and reset buttons, available here: https://www.amazon.com/gp/product/B09BKWMNJ9/ref=ox_sc_act_title_1?smid=ALOZL3MQGX35O&th=1
