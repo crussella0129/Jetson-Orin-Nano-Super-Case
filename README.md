@@ -4,25 +4,13 @@ An Open Source Desktop Case Design for Nvidia's Jetson Orin Super Developer Kit.
 V3.0 Standard Version - No GPIO/Pin Cutout ("sleek" desktop design)
 <img width="1117" height="876" alt="image" src="https://github.com/user-attachments/assets/3cab80ea-aef9-4157-8d4e-4557322bf1e4" />
 
-V2.0 GPIO/Pin Cutout Version ("prototyping friendly" desktop design) 
-
-<img width="1114" height="881" alt="Screenshot 2026-01-29 162449" src="https://github.com/user-attachments/assets/7e72deba-b0b9-4b64-b40c-8fce767b22b6" />
-
-V1.6 GPIO Cutout version (prototype focused design with max board accessibility)
-
-<img width="1066" height="807" alt="image" src="https://github.com/user-attachments/assets/7345c499-3355-4811-9abc-9f051e52123c" />
-
-I/O access (improved in 1.3)
-
-<img width="977" height="648" alt="image" src="https://github.com/user-attachments/assets/1a3de593-4f46-4d22-8859-0b24b0bd1c50" />
-
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Some Key Features*
 
-- Filleted fan duct and large exhaust ports for optimized air cooling. 
-- Large pocket for NVME devices in bottom half, can accomodate permanent heatsinks such as those on "Crucial T705"
+- Bellmouth fan duct and spacious exhaust ports for optimized air cooling. 
+- Large cavity for NVMe devices in bottom half, can accomodate permanent heatsinks such as those on "Crucial T705" or SDR/Network cards that are NVMe compatibple
 - Plenum system that cycles air from the top of the board to the bottom and out of the case:
   <img width="1339" height="898" alt="image" src="https://github.com/user-attachments/assets/dcc87b9a-f9f5-4b9d-a64b-facc6b31dc54" />
 
