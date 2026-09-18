@@ -1,7 +1,7 @@
 # Jetson-Orin-Nano-Super-Case (v3.1a)
 An Open Source Desktop Case Design for Nvidia's Jetson Orin Super Developer Kit. 3d printable or CNC machinable in STEP format. 
 
-V3.0 Standard Version - No GPIO/Pin Cutout ("sleek" desktop design)
+V3.1a Standard Version - No GPIO/Pin Cutout ("sleek" desktop design)
 
 <img width="1323" height="929" alt="image" src="https://github.com/user-attachments/assets/0584ca0d-01a9-49d7-8c1a-5b17495367dc" />
 
@@ -37,8 +37,14 @@ V3.0 Standard Version - No GPIO/Pin Cutout ("sleek" desktop design)
     - Fig 3
       ![IMG_9220](https://github.com/user-attachments/assets/99a4a72b-dc4c-41d6-85c0-35002fd225a5)
  
-  - Place the Jetson Orin Nano Board *CAREFULLY* into the top half of the case. (Fig 4)
+  - Place a jumper across pins 5 and 6, as in Fig 4, then take the buttons and cut the wires such that the total length is ~110-120mm and place the dupont jumpers on the ends of the cables, as in Fig 5. Attach these to the desired corresponding pins on the button header.
   - Fig 4
+    <img width="6144" height="8160" alt="PXL_20260918_151950133" src="https://github.com/user-attachments/assets/887e5137-cf13-41e0-819e-fb468b9f4187" />
+  - Fig 5
+    <img width="6144" height="8160" alt="PXL_20260918_155231439" src="https://github.com/user-attachments/assets/d5a737c8-d1e5-4189-8e50-53ff74cde0b1" />
+
+  - Place the Jetson Orin Nano Board *CAREFULLY* into the top half of the case. (Fig 4)
+  - Fig 6
     ![IMG_9222](https://github.com/user-attachments/assets/f836c499-75dd-463c-b43d-0acc4dda9256)
 
   - Place the top half onto a sturdy table, or work surface, face down. Then, align the bottom half such that the plenum/recess is directly beneath the aux NvME port.
