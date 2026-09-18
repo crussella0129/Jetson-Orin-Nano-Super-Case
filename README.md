@@ -2,7 +2,11 @@
 An Open Source Desktop Case Design for Nvidia's Jetson Orin Super Developer Kit. 3d printable or CNC machinable in STEP format. 
 
 V3.0 Standard Version - No GPIO/Pin Cutout ("sleek" desktop design)
-<img width="1117" height="876" alt="image" src="https://github.com/user-attachments/assets/3cab80ea-aef9-4157-8d4e-4557322bf1e4" />
+
+<img width="1323" height="929" alt="image" src="https://github.com/user-attachments/assets/0584ca0d-01a9-49d7-8c1a-5b17495367dc" />
+
+<img width="6144" height="8160" alt="PXL_20260918_170755337" src="https://github.com/user-attachments/assets/89d8df5a-59f8-4975-9d97-df59de85c011" />
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
